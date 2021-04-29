@@ -1,0 +1,11 @@
+#viewport {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+img {
+    height: 250px;
+    margin-right: 10px;
+    border: 10px inset aquamarine;
+    border-radius: 50%;
+}
